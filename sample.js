@@ -1,1 +1,1 @@
-console.log("It is a githup file");
+console.log("It is a git-hup file");
